@@ -1,0 +1,78 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+	display: flex;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Cormorant Unicase', serif;
+}
+
+.header {
+	background: #ff7800;
+}
+
+.logo {
+	height: 150px;
+	width: 150px;
+}
+
+.header ul {
+	display: flex;
+	margin-left: auto;
+}
+
+ a {
+	text-decoration: none;
+	color:#000;
+}
+
+li {
+	display: block;
+	padding-left: 5px;
+}
+
+a:hover {
+   color: #b90091;
+   background:#ff9a40; 
+}
+
+.cirpich{
+	background: #ff9a40;
+}
+
+.pictyre{
+	width: 250px;
+}
+
+main {
+	color: #;
+	background: url(https://st2.depositphotos.com/3745043/5571/v/600/depositphotos_55712635-stock-illustration-oil-and-gas-refinery.jpg);
+	height: 222px;
+}
+
+.button{
+	background: #ff0700;
+	color: #b90091;
+	height: 50px;
+	width: 75px;
+	border: 1px solid black;
+
+}
+
+footer {
+	background: #a63100;
+	height: 100%;
+	
+}
+input {
+	height: 50px;
+	width: 250px;
+}
